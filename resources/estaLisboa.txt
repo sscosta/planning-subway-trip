@@ -1,0 +1,103 @@
+50
+Aeroporto:Vermelha
+Alameda:Verde Vermelha
+Alfornelos:Azul
+Alto dos Moinhos:Azul
+Alvalade:Verde
+Amadora Este:Azul
+Ameixoeira:Amarela
+Anjos:Verde
+Areeiro:Verde
+Arroios:Verde
+Avenida:Azul
+Baixa Chiado:Verde Azul
+Bela Vista:Vermelha
+Cabo Ruivo:Vermelha
+Cais do Sodré:Verde
+Campo Grande:Amarela Verde
+Campo Pequeno:Amarela
+Carnide:Azul
+Chelas:Vermelha
+Cidade Universitária:Amarela
+Colégio Militar/Luz:Azul
+Encarnação:Vermelha
+Entre Campos:Amarela
+Intendente:Verde
+Jardim Zoológico:Azul
+Laranjeiras:Azul
+Lumiar:Amarela
+Marquês de Pombal:Azul Amarela
+Martim Moniz:Verde
+Moscavide:Vermelha
+Odivelas:Amarela
+Olaias:Vermelha
+Olivais:Vermelha
+Oriente:Vermelha
+Parque:Azul
+Picoas:Amarela
+Pontinha:Azul
+Praça de Espanha:Azul
+Quinta das Conchas:Amarela
+Rato:Amarela
+Reboleira:Azul
+Restauradores:Azul
+Roma:Verde
+Rossio:Verde
+Saldanha:Amarela Vermelha
+Santa Apolónia:Azul
+São Sebastião:Azul Vermelha
+Senhor Roubado:Amarela
+Telheiras:Verde
+Terreiro do Paço:Azul
+Aeroporto:Encarnação-1:00
+Encarnação:Moscavide-1:00
+Moscavide:Oriente-1:00
+Oriente:Cabo Ruivo-1:00
+Cabo Ruivo:Olivais-1:00
+Olivais:Chelas-1:00
+Chelas:Bela Vista-1:00
+Bela Vista:Olaias-1:00
+Olaias:Alameda-1:00
+Alameda:Areeiro-1:00
+Alameda:Arroios-1:00
+Alameda:Saldanha-1:00
+Saldanha:São Sebastião-1:00
+Saldanha:Campo Pequeno-1:00
+Saldanha:Picoas-1:00
+Odivelas:Senhor Roubado-1:00
+Senhor Roubado:Ameixoeira-1:00
+Ameixoeira:Lumiar-1:00
+Lumiar:Quinta das Conchas-1:00
+Quinta das Conchas:Campo Grande-1:00
+Campo Grande:Cidade Universitária-1:00
+Cidade Universitária:Entre Campos-1:00
+Entre Campos:Campo Pequeno-1:00
+Picoas:Marquês de Pombal-1:00
+Marquês de Pombal:Rato-1:00
+Telheiras:Campo Grande-1:00
+Campo Grande:Alvalade-1:00
+Alvalade:Roma-1:00
+Roma:Areeiro-1:00
+Arroios:Anjos-1:00
+Anjos:Intendente-1:00
+Intendente:Martim Moniz-1:00
+Martim Moniz:Rossio-1:00
+Rossio:Baixa Chiado-1:00
+Baixa Chiado:Cais do Sodré-1:00
+Baixa Chiado:Terreiro do Paço-1:00
+Terreiro do Paço:Santa Apolónia-1:00
+Baixa Chiado:Restauradores-1:00
+Restauradores:Avenida-1:00
+Avenida:Marquês de Pombal-1:00
+Marquês de Pombal:Parque-1:00
+Parque:São Sebastião-1:00
+São Sebastião:Praça de Espanha-1:00
+Praça de Espanha:Jardim Zoológico-1:00
+Jardim Zoológico:Laranjeiras-1:00
+Laranjeiras:Alto dos Moinhos-1:00
+Alto dos Moinhos:Colégio Militar/Luz-1:00
+Colégio Militar/Luz:Carnide-1:00
+Carnide:Pontinha-1:00
+Pontinha:Alfornelos-1:00
+Alfornelos:Amadora Este-1:00
+Amadora Este:Reboleira-1:00

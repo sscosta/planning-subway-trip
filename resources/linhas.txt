@@ -1,0 +1,11 @@
+4
+Azul 4:55
+Amarela 5:00
+Verde 3:35
+Vermelha 6:15
+Amarela Verde 5:00
+Amarela Vermelha 7:00
+Amarela Azul 5:50
+Vermelha Verde 6:00
+Vermelha Azul 4:50
+Azul Verde 3:50
